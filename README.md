@@ -22,7 +22,7 @@ OpenTimerResolution will automatically check (and install if prompted) for new v
 
 **Small note: The automatic memory cache cleaner might slow down downloads on apps such as Steam (when downloading or updating).**
 
-.NET 6.0 SDK is required to build the project: https://dotnet.microsoft.com/download/dotnet/6.0
+.NET 7.0 SDK is required to build the project: https://dotnet.microsoft.com/download/dotnet/7.0
 
 # License
 
