@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/TorniX0/OpenTimerResolution/main/repo_imgs/banner.png" height="150">
+<img src="https://raw.githubusercontent.com/TorniX0/OpenTimerResolution/main/repo_imgs/banner.png" width="450px" height="auto">
 </p>
 
 ## ℹ️ Summary
@@ -16,7 +16,7 @@
 
 ## 📸 Screenshot (GIF)
 
-<img src="https://github.com/TorniX0/OpenTimerResolution/raw/main/repo_imgs/dark_mode.gif" width="603.8461538461538" height="278.4615384615385">
+<img src="https://github.com/TorniX0/OpenTimerResolution/raw/main/repo_imgs/dark_mode.gif" width="603.8461538461538px" height="auto">
 
 ## 💾 Details
 + .NET 7.0 (WinForms)
